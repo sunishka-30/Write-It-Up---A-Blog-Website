@@ -1,6 +1,6 @@
-<h5>Blog Website</h5>
+<h1>Blog Website</h1>
 
-<h3>Title: Write It Up</h3>
+<h3>Title: "Write It Up"</h3>
 
 <pre>
 <b>"Write It Up"</b> is a versatile blogging platform that caters to a wide range of interests and topics. 
